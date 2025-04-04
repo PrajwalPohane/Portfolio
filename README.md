@@ -12,6 +12,6 @@ Welcome to my Portfolio website. Here are some of the screenshots for the previe
 ![image](https://github.com/user-attachments/assets/24098211-93f4-4d64-9bfd-4c3ae533c3c8)
 
 
+![image](https://github.com/user-attachments/assets/0dacd84b-1d43-4d5b-b592-ad95c8993003)
 
-![image](https://github.com/user-attachments/assets/31325624-df66-41b8-a363-8423bd2ede55)
 
